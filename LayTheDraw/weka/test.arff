@@ -1,0 +1,11 @@
+@relation matches
+@attribute homeodds  real
+@attribute drawodds  real
+@attribute awayodds  real
+@attribute avggoalshome  real
+@attribute avggoalsaway  real
+@attribute avgsothome  real
+@attribute avgsotaway  real
+@attribute class {0,1}
+
+@data
